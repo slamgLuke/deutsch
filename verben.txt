@@ -34,6 +34,7 @@ wandern: ich wandere, du wanderst, es wandert, wir wandern, ihr wandert, sie wan
 gehen: ich gehe, du gehst, es geht, wir gehen, ihr geht, sie gehen
 
 arbeiten: ich arbeite, du arbeitest, es arbeitet, wir arbeiten, ihr arbeitet, sie arbeiten
+lernen: ich lerne, du lernst, es lernt, wir lernen, ihr lernt, sie lernen
 +essen: ich esse, du isst, es isst, wir essen, ihr esst, sie essen
 *helfen: ich helfe, du hilfst, es hilft, wir helfen, ihr helft, sie helfen
 *nehmen: ich nehme, du nimmst, es nimmt, wir nehmen, ihr nehmt, sie nehmen
