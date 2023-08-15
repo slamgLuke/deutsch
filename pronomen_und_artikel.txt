@@ -1,0 +1,36 @@
+deutsche_pronomen_und_artikel:
+------------------------------
+
+Personalpronomen:
+
+ich - I
+du - You (informal, singular)
+er/sie/es - He/She/It
+wir - We
+ihr - You (informal, plural)
+sie - They
+Sie - You (formal, singular/plural)
+
+Possessivepronomen:
+
+mein - ich
+dein - du
+sein/ihr/sein - er/sie/es
+unser - wir
+euer - ihr
+ihr - sie
+Ihr - Sie
+
+Definiter Artikel:
+
+männlich - der | des | dem | den
+weiblich - die | der | der | die
+neutral  - das | des | dem | das
+plural   - die
+
+Indefiniter Artikel:
+
+männlich - ein  | eines | einem | einen
+weiblich - eine | einer | einer | eine
+neuter   - ein  | eines | einem | ein
+

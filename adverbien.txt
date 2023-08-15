@@ -1,0 +1,83 @@
+deutsche_adverbien:
+-------------------
+
+1. der Art und Weise:
+- freundlich
+- wirklich
+- pünktlich
+
+- gut
+- schlecht
+
+- schnell
+- langsam
+
+- laut
+- leise
+
+- schwierig
+- einfach
+
+
+
+2. die Zeit:
+- jetzt
+- dann
+
+für die Frequenz:
+- immer
+- oft
+- manchmal
+- nie
+
+für der Tag:
+- heute
+- gestern
+- morgen
+
+
+3. der Ort und die Richtung:
+- hier
+- dort
+
+- in der Nähe
+- da drüben
+- weit weg
+- rechts
+- links
+
+
+4. Gradadverbien:
+- sehr
+- viel
+
+
+5. Verneinungsadverbien:
+- nicht
+- kein
+- nie
+
+
+6. Frageadverbien:
+- Was?
+- Wann?
+- Wo?
+- Wer
+- Wie?
+- Warum?
+- Welch?
+
+- Woher?
+
+
+7. Relativadverbien:
+- wo
+- worin
+- wobei
+- warum
+
+
+8. Konjuktionaladverbien:
+- deshalb
+- trotzdem
+- außerdem

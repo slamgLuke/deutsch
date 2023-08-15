@@ -1,0 +1,82 @@
+deutsche_adjektive:
+-------------------
+
+für die Temperature:
+- heiß
+- kalt
+
+für der Preis:
+- teuer
+- billig
+
+für die Größe:
+- groß
+- klein
+
+- gut
+- schlecht
+
+- super
+- cool
+- wunderbar
+- perfekt
+- toll
+
+- schön
+- hässlich
+
+- nett
+
+- aufregend / interessant
+- langweilig
+
+- stressig
+- ruhig
+
+für der Schall, die Lautstärke
+- laut
+- leise
+
+für das Alter:
+- alt
+- jung / (neue)
+
+für die Farbe: (die Farben sind neutrale Substantive)
+- schwarz
+- weiß
+- grau
+- braun
+-------
+- rot
+- orange
+- gelb
+- grün
+- hellblau/himmelblau
+- blau
+- violett
+- rosa
+
+
+für das Gëfuhl:
+- glücklig (das Glück)
+- taurig (die Taurigkeit)
+
+fur die Stärke:
+- stark
+- schwach
+
+fur die Schwierigkeit:
+- schwer
+- einfach
+
+
+- allgemein
+- bestimmt
+
+- bewölkt
+- sonnig
+- windig
+- neblig
+- nass
+
+- nervös

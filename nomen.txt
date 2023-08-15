@@ -1,0 +1,189 @@
+deutsche_nomen:
+---------------------
+
+
+das Apfel
+die Banane
+die Orange
+die Birne
+die Erdbeere
+die Tomate
+die Karotte
+die Zwiebel
+der Gurke
+die Kartoffel
+das Wasser
+die Milch
+das Ei
+der Kaffee
+der Tee
+das Salz
+der Käse
+der Schinken
+das Mineralwasser
+das Schnitzel
+das Essen
+das Sandwich
+die Pizza
+die Zutat
+der Salat
+der Wein
+das Bier
+die Wasserflasche
+
+
+
+der Hund
+die Katze
+der Bär
+der Eisbär
+die Eule
+der Elefant
+die Schnecke
+der Fisch
+
+
+
+
+die Rechnung
+die Speisekarte
+die Reservierung
+
+Kellner/Kellnerin
+Professor/Professorin
+Lehrer/Leherin
+Schauspieler/Schauspielerin
+Arzt/Ärztin
+Student/Studentin
+Schüler/Schülerin
+Kanzler/Kanzlerin
+Polizist/Polizistin
+Künstler/Küntslerin
+Anwalt/Anwältin
+Spieler
+
+die Arbeit
+der Beruf
+der Urlaub
+die Hilfe
+
+
+
+der Mensch
+der Mann
+die Frau
+der Bruder
+die Schwester
+der Vater
+die Mutter
+der Sohn
+die Tochter
+// der Ehemann
+der Onkel
+die Tante
+der Opa
+die Oma
+
+
+Freund/Freundin
+Partner/Partnerin
+Mitbewohner/Mitbewohnerin
+
+
+
+das Klavier
+die Gitarre / E-Gitarren
+die Bassguitarre / E-Bassgitarren
+das Schach
+der Computer
+der Tisch
+der Stuhl
+der Fernseher
+das Spiel
+das Videospiel
+
+
+
+
+der Park
+die Kirche
+der Bahnhof
+der Markt
+der Supermarkt
+die Bibliothek
+das Restaurant
+das Hotel
+die Apotheke
+die U-Bahnstation
+das Taxi
+der Taxistand
+die Stadt
+die Bäckerei
+die Universität
+die Schule
+das Haus
+das Krankenhaus
+das Café
+das Kino
+das Kaufhaus
+die Toilette
+das Badezimmer
+der MarktPlatz
+die Wohnung
+der Flughafen
+das Flugticket
+
+
+
+das Geld
+der Geldautomat
+der Preis
+
+
+
+die Sekunde
+die Minute
+die Stunde
+der Tag
+die Woche
+der Monat
+das Jahr
+
+der Geburstag
+
+der Montag
+der Dienstag
+der Mittwoch
+der Donnerstag
+der Freitag
+der Samstag
+der Sontag
+
+
+
+die Kleidung
+der Schuh -> Schuhe
+das Kleid
+das Sakko
+das Hemd
+der Schal
+der Regenschirm
+
+
+
+der Himmel
+die Erde
+die Sonne
+der Mond
+der Stern
+die Wolke
+der Regen
+der Schnee
+
+der Frühling
+der Sommer
+der Herbst
+der Winter
+
+
+die Sonnencreme
