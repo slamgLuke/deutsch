@@ -26,6 +26,7 @@ deutsche_adverbien:
 
 für die Frequenz:
 - immer
+- jeden Tag
 - oft
 - manchmal
 - nie
@@ -70,6 +71,8 @@ für der Tag:
 
 - Woher?
 
+- Wie viel?
+
 
 7. Relativadverbien:
 - wo
@@ -82,3 +85,9 @@ für der Tag:
 - deshalb
 - trotzdem
 - außerdem
+
+
+9.- Adverbien der Modalität:
+- gern
+- vielleicht
+

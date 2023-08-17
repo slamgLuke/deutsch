@@ -21,6 +21,7 @@ euer - ihr
 ihr - sie
 Ihr - Sie
 
+
 Definiter Artikel:
 
 männlich - der | des | dem | den
@@ -33,4 +34,22 @@ Indefiniter Artikel:
 männlich - ein  | eines | einem | einen
 weiblich - eine | einer | einer | eine
 neuter   - ein  | eines | einem | ein
+
+mehr:
+
+    jeder (every)
+    jemand (someone)
+    niemand (nobody)
+    etwas (something)
+    nichts (nothing)
+    alle (all)
+    viele (many)
+    wenige (few)
+    einige (some)
+    mehrere (several)
+    manche (some)
+    andere (other)
+    solche (such)
+    beide (both)
+    keiner (none)
 

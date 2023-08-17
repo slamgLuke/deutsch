@@ -24,7 +24,9 @@ leben: ich lebe, du lebst, es lebt, wir leben, ihr lebt, sie leben
 *sprechen: ich spreche, du sprichst, es spricht, wir sprechen, ihr sprecht, sie sprechen
 schreiben: ich schreibe, du schreibst, es schreibt, wir schreiben, ihr schreibt, sie schreiben
 +lesen: ich lese, du liest, es liest, wir lesen, ihr lest, sie lesen
+hören: ich höre, du hörst, es hört, wir hören, ihr hört, sie hören
 
+Hobbys:
 kochen: ich koche, du kochst, es kocht, wir kochen, ihr kocht, sie kochen
 spielen: ich spiele, du spielts, es spielt, wir spielen, ihr spielt, sie spielen
 schwimmen: ich schwimme, du schwimmst, es schwimmt, wir schwimmen, ihr schwimmt, sie schwimmen
@@ -32,10 +34,16 @@ malen: ich male, du malst, es malt, wir malen, ihr malt, sie malen
 wandern: ich wandere, du wanderst, es wandert, wir wandern, ihr wandert, sie wandern
 +reisen: ich reise, du reist, es reist, wir reisen, ihr reist, sie reisen
 gehen: ich gehe, du gehst, es geht, wir gehen, ihr geht, sie gehen
+singen: ich singe, du singst, es singt, wir singen, ihr singt, sie singen
+fotografieren: ich fotografiere, du fotografierst, es fotografiert, wir fotografieren, ihr fotografiert, sie fotografieren
+tanzen: ich tanze, du tanzt, es tanzt, wir tanzen, ihr tanzt, sie tanzen
+
+
 
 arbeiten: ich arbeite, du arbeitest, es arbeitet, wir arbeiten, ihr arbeitet, sie arbeiten
 lernen: ich lerne, du lernst, es lernt, wir lernen, ihr lernt, sie lernen
 +essen: ich esse, du isst, es isst, wir essen, ihr esst, sie essen
+frühstücken: ich frühstücke, du frühstückst, es frühstückt, wir frühstücken, ihr frühstückt, sie frühstücken
 *helfen: ich helfe, du hilfst, es hilft, wir helfen, ihr helft, sie helfen
 *nehmen: ich nehme, du nimmst, es nimmt, wir nehmen, ihr nehmt, sie nehmen
 brauchen: ich brauche, du brauchst, es braucht, wir brauchen, ihr braucht, sie brauchen
