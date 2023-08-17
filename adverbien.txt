@@ -18,6 +18,9 @@ deutsche_adverbien:
 - schwierig
 - einfach
 
+- zusammen
+- getrennt / allein
+
 
 
 2. die Zeit:
