@@ -15,7 +15,10 @@ möchten: ich möchte, du möchst, es möcht, wir möchten, ihr möchtet, sie m�
 *sehen: ich sehe, du siehst, es sieht, wir sehen, ihr seht, sie sehen
 verstehen: ich verstehe, du verstehst es versteht, wir verstehen, ihr versteht, sie verstehen
 kosten: ich koste, du kostest, es kostet, wir kosten, ihr kostet, sie kosten
+kaufen: ich kaufe, du kaufst, es kauft, wir kaufen, ihr kauft, sie kaufen
 lieben: ich liebe, du liebst, es liebt, wir lieben, ihr liebt, sie lieben
+*geben: ich gebe, du gibst, es gibt, wir geben, ihr gebt, sie geben
+
 
 suchen: ich suche, du suchst, es sucht, wir suchen, ihr sucht, sie suchen
 +heißen: ich heiße, du heißt, es heißt, wir heißen, ihr heißt, sie heißen
@@ -25,6 +28,9 @@ leben: ich lebe, du lebst, es lebt, wir leben, ihr lebt, sie leben
 schreiben: ich schreibe, du schreibst, es schreibt, wir schreiben, ihr schreibt, sie schreiben
 +lesen: ich lese, du liest, es liest, wir lesen, ihr lest, sie lesen
 hören: ich höre, du hörst, es hört, wir hören, ihr hört, sie hören
+sagen: ich sage, du sagst, es sagt, wir sagen, ihr sagt, sie sagen
+denken: ich denke, du denkst, es denkt, wir denken, ihr denkt, sie denken
+glauben: ich glaube, du glaubst, es glaubt, wir glauben, ihr glaubt, sie glauben
 
 Hobbys:
 kochen: ich koche, du kochst, es kocht, wir kochen, ihr kocht, sie kochen
@@ -37,16 +43,26 @@ gehen: ich gehe, du gehst, es geht, wir gehen, ihr geht, sie gehen
 singen: ich singe, du singst, es singt, wir singen, ihr singt, sie singen
 fotografieren: ich fotografiere, du fotografierst, es fotografiert, wir fotografieren, ihr fotografiert, sie fotografieren
 tanzen: ich tanze, du tanzt, es tanzt, wir tanzen, ihr tanzt, sie tanzen
+surfen: ich surfe, du surfst, es surft, wir surfen, ihr surft, sie surfen
 
 
 
 arbeiten: ich arbeite, du arbeitest, es arbeitet, wir arbeiten, ihr arbeitet, sie arbeiten
 lernen: ich lerne, du lernst, es lernt, wir lernen, ihr lernt, sie lernen
 +essen: ich esse, du isst, es isst, wir essen, ihr esst, sie essen
+trinken: ich trinke, du trinkst, es trinkt, wir trinken, ihr trinkt, sie trinken
 frühstücken: ich frühstücke, du frühstückst, es frühstückt, wir frühstücken, ihr frühstückt, sie frühstücken
 *helfen: ich helfe, du hilfst, es hilft, wir helfen, ihr helft, sie helfen
 *nehmen: ich nehme, du nimmst, es nimmt, wir nehmen, ihr nehmt, sie nehmen
 brauchen: ich brauche, du brauchst, es braucht, wir brauchen, ihr braucht, sie brauchen
+*schlafen: ich schlafe, du schläfst, es schläft, wir schlafen, ihr schlaft, sie schlafen
+
+
+*fahren: ich fahre, du fährst, es fährt, wir fahren, ihr fahrt, sie fahren
+fliegen: ich fliege, du fliegst, es fliegt, wir fliegen, ihr fliegt, sie fliegen
+*laufen: ich laufe, du läufst, es läuft, wir laufen, ihr lauft, sie laufen
+
+
 
 
 für das Wetter:
