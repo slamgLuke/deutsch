@@ -63,6 +63,9 @@ fliegen: ich fliege, du fliegst, es fliegt, wir fliegen, ihr fliegt, sie fliegen
 *laufen: ich laufe, du läufst, es läuft, wir laufen, ihr lauft, sie laufen
 
 
+öffnen: ich öffne, du öffst. es öfft, wir öffnen, ihr öfft, sie öffnen
+schließen: ich schließe, du schließt, es schließt, wir schließen, ihr schließt, sie schließen
+
 
 
 für das Wetter:
