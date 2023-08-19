@@ -132,6 +132,8 @@ der MarktPlatz
 die Wohnung
 der Flughafen
 das Flugticket
+das Konzert
+das Schwimmbad
 
 
 
