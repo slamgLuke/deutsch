@@ -133,6 +133,7 @@ die Wohnung
 der Flughafen
 das Flugticket
 das Konzert
+die Eintrittskarte
 das Schwimmbad
 
 
@@ -141,7 +142,10 @@ das Geld
 der Geldautomat
 der Preis
 
-
+deer Morgen
+der Nachmittag
+die Nacht
+die Abend
 
 die Sekunde
 die Minute
