@@ -33,6 +33,9 @@ für die Größe:
 - stressig
 - ruhig
 
+- geöffnet
+- getschlossen
+
 für der Schall, die Lautstärke
 - laut
 - leise
