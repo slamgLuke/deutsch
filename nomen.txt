@@ -30,6 +30,8 @@ der Salat
 der Wein
 das Bier
 die Wasserflasche
+die Cola
+die Limonade
 
 
 
@@ -41,6 +43,14 @@ die Eule
 der Elefant
 die Schnecke
 der Fisch
+der Vogel
+der Papagei
+der Pinguin
+die Maus
+die Kuh
+das Schwein
+das Pferd
+
 
 
 
@@ -60,7 +70,9 @@ Kanzler/Kanzlerin
 Polizist/Polizistin
 Künstler/Küntslerin
 Anwalt/Anwältin
-Spieler
+Spieler/Spielerin
+Sänger/Sängerin
+
 
 die Arbeit
 der Beruf
@@ -74,6 +86,7 @@ der Mann
 die Frau
 der Bruder
 die Schwester
+die Eltern
 der Vater
 die Mutter
 der Sohn
@@ -81,19 +94,28 @@ die Tochter
 // der Ehemann
 der Onkel
 die Tante
+die Großeltern
 der Opa
 die Oma
+
+der Junge
+das Mädchen
+das Kind
+
 
 
 Freund/Freundin
 Partner/Partnerin
 Mitbewohner/Mitbewohnerin
+Cousin/Cousine
 
 
 
 das Klavier
 die Gitarre / E-Gitarren
 die Bassguitarre / E-Bassgitarren
+die Geige
+das Schlagzeug
 das Schach
 der Computer
 der Tisch
@@ -134,6 +156,9 @@ der Flughafen
 das Flugticket
 das Konzert
 das Schwimmbad
+das Museum
+das Aufzug
+die Bank
 
 
 
