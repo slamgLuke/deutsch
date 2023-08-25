@@ -116,13 +116,54 @@ die Gitarre / E-Gitarren
 die Bassguitarre / E-Bassgitarren
 die Geige
 das Schlagzeug
+
 das Schach
+das Spiel
+das Videospiel
+
+
 der Computer
+das Handy
+das Telefon
+das Radio
+
+
+die Wohnzimmer:
 der Tisch
 der Stuhl
 der Fernseher
-das Spiel
-das Videospiel
+die Couch
+das Sofa
+das Bücherregal
+der Teppich
+
+
+das Schlafzimmer:
+das Bett
+der Schrank
+der Nachttisch
+der Schreibtisch
+die Lampe
+
+
+die Küche:
+der Kühlschrank
+der Herd
+der Ofen
+der Toaster
+
+der Topf
+die Pfanne
+der Teller
+die Gabel
+der Löffel
+das Messer
+
+
+das Badezimmer
+
+
+
 
 
 
@@ -149,7 +190,6 @@ das Café
 das Kino
 das Kaufhaus
 die Toilette
-das Badezimmer
 der MarktPlatz
 die Wohnung
 der Flughafen
