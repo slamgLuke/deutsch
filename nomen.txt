@@ -28,10 +28,12 @@ die Pizza
 die Zutat
 der Salat
 der Wein
+der Rotwein
 das Bier
 die Wasserflasche
 die Cola
 die Limonade
+die Apfelschorle
 
 
 
