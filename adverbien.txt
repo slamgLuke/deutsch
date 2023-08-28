@@ -8,6 +8,9 @@ deutsche_adverbien:
 
 - gut
 - schlecht
+- besser
+- schlechter
+- gleich
 
 - schnell
 - langsam
@@ -15,7 +18,7 @@ deutsche_adverbien:
 - laut
 - leise
 
-- schwierig
+- schwierig / schwer
 - einfach
 
 - zusammen
@@ -26,6 +29,7 @@ deutsche_adverbien:
 2. die Zeit:
 - jetzt
 - dann
+- bald
 
 - später
 - früher
@@ -55,11 +59,15 @@ für der Tag:
 - hinten
 - vorne
 
+- draußen
+- drinnen
+
 
 4. Gradadverbien:
 - sehr
 - viel
 - ein bisschen
+- so
 
 
 5. Verneinungsadverbien:
@@ -75,7 +83,7 @@ für der Tag:
 - Wer
 - Wie?
 - Warum?
-- Welch?
+- Welche?
 
 - Woher?
 
