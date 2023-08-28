@@ -22,3 +22,59 @@ sobre: über (on/about)
 tras: hinter (behind/after)
 versus: gegenüber (versus)
 vía: über (via/through)
+
+
+im: in dem
+ins: in das
+am: an dem
+ans: an das
+vom: von dem
+vons: von das
+zum: zu dem
+zur: zu der
+aufs: auf das
+durchs: durch das
+fürs: für das
+hinterm: hinter dem
+hinters: hinter das
+überm: über dem
+übers: über das
+unterm: unter dem
+unters: unter das
+vorm: vor dem
+vors: vor das
+
+
+um: um (around)
+aus: aus (out of)
+außer: außer (except)
+bei: bei (at/near)
+mit: mit (with)
+nach: nach (after)
+seit: seit (since)
+von: von (from)
+zu: zu (to)
+gegen: gegen (against)
+wieder: wieder (again)
+durch: durch (through)
+für: für (for)
+gegen: gegen (against)
+ohne: ohne (without)
+nur: nur (only)
+bis: bis (until)
+entlang: entlang (along)
+ganz: ganz (all)
+halber: halber (half)
+innerhalb: innerhalb (within)
+lang: lang (along)
+mittels: mittels (by means of)
+mitten: mitten (in the middle of)
+trotz: trotz (despite)
+während: während (during)
+wegen: wegen (because of)
+außerhalb: außerhalb (outside)
+betreffs: betreffs (regarding)
+laut: laut (according to)
+statt: statt (instead of)
+noch: noch (still)
+

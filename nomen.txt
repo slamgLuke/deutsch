@@ -129,6 +129,7 @@ das Radio
 
 
 die Wohnzimmer:
+die Tür
 der Tisch
 der Stuhl
 der Fernseher
@@ -170,7 +171,19 @@ das Badezimmer
 
 der Park
 die Kirche
+
 der Bahnhof
+die Fahrkarte
+die Abfahrt
+die Ankunft
+die Verspätung
+die Achtung
+das Gleis
+das Reisezentrum
+der Sitz
+
+
+
 der Markt
 der Supermarkt
 die Bibliothek
@@ -206,6 +219,9 @@ die Bank
 das Geld
 der Geldautomat
 der Preis
+die Kreditkarte
+das Bargeld
+
 
 deer Morgen
 der Nachmittag
@@ -256,5 +272,16 @@ der Sommer
 der Herbst
 der Winter
 
-
 die Sonnencreme
+
+
+der Zug
+der ICE
+das Auto
+das Fahrrad
+das Motorrad
+das Flugzeug
+das Schiff
+die U-Bahn
+die Straßenbahn
+der Bus

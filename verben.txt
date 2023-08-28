@@ -16,6 +16,7 @@ möchten: ich möchte, du möchst, es möcht, wir möchten, ihr möchtet, sie m�
 verstehen: ich verstehe, du verstehst es versteht, wir verstehen, ihr versteht, sie verstehen
 kosten: ich koste, du kostest, es kostet, wir kosten, ihr kostet, sie kosten
 kaufen: ich kaufe, du kaufst, es kauft, wir kaufen, ihr kauft, sie kaufen
+zahlen: ich zahle, du zahlst, es zahlt, wir zahlen, ihr zahlt, sie zahlen
 lieben: ich liebe, du liebst, es liebt, wir lieben, ihr liebt, sie lieben
 *geben: ich gebe, du gibst, es gibt, wir geben, ihr gebt, sie geben
 
@@ -65,6 +66,7 @@ fliegen: ich fliege, du fliegst, es fliegt, wir fliegen, ihr fliegt, sie fliegen
 
 öffnen: ich öffne, du öffst. es öfft, wir öffnen, ihr öfft, sie öffnen
 schließen: ich schließe, du schließt, es schließt, wir schließen, ihr schließt, sie schließen
+stornieren: ich storniere, du stornierst, es storniert, wir stornieren, ihr storniert, sie stornieren
 
 
 
@@ -89,14 +91,33 @@ nutzen: ich nutze, du nutzt, es nutzt, wir nutzen, ihr nutzt, sie nutzen
 
 
 
-die Konjugation:
-Präsens/Gegenwart: Standard
+# die Konjugation:
+## Präsens/Gegenwart: Standard
 Ich spiele, du gehst
 
-Partizip I (present continous): -end/-nd       [nutz oft nicht]
+
+## Päteritum/Imperfekt: -te/-ten
+-starke Verben:
+sein/waren: ich war, du warst, es war, wir waren, ihr wart, sie waren
+gehen/gingen: ich ging, du gingst, es ging, wir gingen, ihr gingt, sie gingen
+wissen/wussten: ich wusste, du wusstest, es wusste, wir wussten, ihr wusstet, sie wussten
+
+-schwache Verben:
+haben/hatten: ich hatte, du hattest, es hatte, wir hatten, ihr hattet, sie hatten
+spielen/spielten: ich spielte, du spieltest, es spielte, wir spielten, ihr spieltet, sie spielten
+können/konnten: ich konnte, du konntest, es konnte, wir konnten, ihr konntet, sie konnten
+machen/machten: ich machte, du machtest, es machte, wir machten, ihr machtet, sie machten
+wollen/wollten: ich wollte, du wolltest, es wollte, wir wollten, ihr wolltet, sie wollten
+sollen/sollten: ich sollte, du solltest, es sollte, wir sollten, ihr solltet, sie sollten
+müssen/mussten: ich musste, du musstest, es musste, wir mussten, ihr musstet, sie mussten
+
+
+
+## Partizip I (present continous): -end/-nd       [nutz oft nicht]
 Ich bin spielend, du bist gehend
 
-Partizip II (past participle): ge- -t/-en
+
+## Partizip II (past participle): ge- -t/-en
 Ich habe spielt, du hast gegangen
 
 

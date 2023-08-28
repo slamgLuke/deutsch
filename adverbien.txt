@@ -27,6 +27,9 @@ deutsche_adverbien:
 - jetzt
 - dann
 
+- später
+- früher
+
 für die Frequenz:
 - immer
 - jeden Tag
@@ -49,6 +52,8 @@ für der Tag:
 - weit weg
 - rechts
 - links
+- hinten
+- vorne
 
 
 4. Gradadverbien:

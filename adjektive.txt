@@ -8,6 +8,7 @@ für die Temperature:
 für der Preis:
 - teuer
 - billig
+- frei
 
 für die Größe:
 - groß
@@ -95,3 +96,9 @@ fur die Schwierigkeit:
 
 - hell
 - dunkel
+
+- nächst
+- letzte
+
+- spät
+- früh
