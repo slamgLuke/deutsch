@@ -7,6 +7,7 @@ deutsche_adverbien:
 - pünktlich
 
 - gut
+- froh
 - schlecht
 - besser
 - schlechter
