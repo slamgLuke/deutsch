@@ -21,6 +21,19 @@ euer - ihr
 ihr - sie
 Ihr - Sie
 
+Demonstrativpronomen:
+
+- dies 
+
+- dieser/diese/dieses:
+männlich: dieser (nominativ), dieses (genitiv), diesem (dativ), diesen (akkusativ)
+weiblich: diese (nominativ), dieser (genitiv), dieser (dativ), diese (akkusativ)
+neutral: dieses (nominativ), dieses (genitiv), diesem (dativ), dieses (akkusativ)
+plural: diese (nominativ), dieser (genitiv), diesen (dativ), diese (akkusativ)
+
+
+
+
 
 Definiter Artikel:
 
