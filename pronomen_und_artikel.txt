@@ -3,13 +3,50 @@ deutsche_pronomen_und_artikel:
 
 Personalpronomen:
 
-ich - I
-du - You (informal, singular)
-er/sie/es - He/She/It
-wir - We
-ihr - You (informal, plural)
-sie - They
-Sie - You (formal, singular/plural)
+    Ich (I)
+    Du (you, informal singular)
+    Er (he)
+    Sie (she, formal singular), sie (they)
+    Es (it)
+    Wir (we)
+    Ihr (you all, informal plural)
+    Sie (you, formal plural), sie (they)
+
+Genitive Case:
+
+    Meiner (mine)
+    Deiner (yours)
+    Seiner (his)
+    Ihrer (hers), Ihrer (formal yours)
+    Seiner (its)
+    Unser (ours)
+    Euer (yours)
+    Ihrer (theirs)
+
+Dative Case:
+
+    Mir (me)
+    Dir (you, informal singular)
+    Ihm (him)
+    Ihr (her), Ihnen (formal you), Ihnen (them)
+    Ihm (it)
+    Uns (us)
+    Euch (you all, informal plural)
+    Ihnen (you, formal plural), Ihnen (them)
+
+Accusative Case:
+
+    Mich (me)
+    Dich (you, informal singular)
+    Ihn (him)
+    Sie (her, formal singular), sie (them)
+    Es (it)
+    Uns (us)
+    Euch (you all, informal plural)
+    Sie (you, formal plural), sie (them)
+
+
+
 
 Possessivepronomen:
 
@@ -20,6 +57,8 @@ unser - wir
 euer - ihr
 ihr - sie
 Ihr - Sie
+
+
 
 Demonstrativpronomen:
 
