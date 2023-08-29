@@ -57,6 +57,7 @@ frühstücken: ich frühstücke, du frühstückst, es frühstückt, wir frühst�
 *nehmen: ich nehme, du nimmst, es nimmt, wir nehmen, ihr nehmt, sie nehmen
 brauchen: ich brauche, du brauchst, es braucht, wir brauchen, ihr braucht, sie brauchen
 *schlafen: ich schlafe, du schläfst, es schläft, wir schlafen, ihr schlaft, sie schlafen
++passen: ich passe, du passt, es passt, wir passen, ihr passt, sie passen
 bestellen: ich bestelle, du bestellst, es bestellt, wir bestellen, ihr bestellt, sie bestellen
 
 
