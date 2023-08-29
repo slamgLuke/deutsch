@@ -102,3 +102,8 @@ fur die Schwierigkeit:
 
 - spät
 - früh
+
+- seltsam
+- normal
+
+
