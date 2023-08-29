@@ -186,6 +186,7 @@ die Kirche
 
 der Bahnhof
 die Fahrkarte
+die Hind- und Rückfahrkarte
 die Abfahrt
 die Ankunft
 die Verspätung
