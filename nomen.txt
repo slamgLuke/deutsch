@@ -1,12 +1,12 @@
 deutsche_nomen:
 ---------------------
 
-
 das Apfel
 die Banane
 die Orange
 die Birne
 die Erdbeere
+das Obst
 die Tomate
 die Karotte
 die Zwiebel
@@ -39,6 +39,10 @@ die Limonade
 die Apfelschorle
 das Fleisch
 die Suppe
+der Kuchen
+das Eis
+der Nachtisch
+
 
 
 
