@@ -18,6 +18,8 @@ das Ei
 der Kaffee
 der Tee
 das Salz
+der Zucker
+der Pfeffer
 der Käse
 der Schinken
 das Mineralwasser
@@ -31,9 +33,12 @@ der Wein
 der Rotwein
 das Bier
 die Wasserflasche
+das Glas
 die Cola
 die Limonade
 die Apfelschorle
+das Fleisch
+die Suppe
 
 
 
