@@ -64,6 +64,8 @@ für die Farbe: (die Farben sind neutrale Substantive)
 für das Gëfuhl:
 - glücklig (das Glück)
 - traurig (die Taurigkeit)
+- fröhlich (die Fröhlichkeit)
+
 - froh
 
 fur die Stärke:

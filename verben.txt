@@ -71,6 +71,11 @@ fliegen: ich fliege, du fliegst, es fliegt, wir fliegen, ihr fliegt, sie fliegen
 schließen: ich schließe, du schließt, es schließt, wir schließen, ihr schließt, sie schließen
 stornieren: ich storniere, du stornierst, es storniert, wir stornieren, ihr storniert, sie stornieren
 
+schreien: ich schreie, du schreist, es schreit, wir schreien, ihr schreit, sie schreien
+weinen: ich weine, du weinst, es weint, wir weinen, ihr weint, sie weinen
+lachen: ich lache, du lachst, es lacht, wir lachen, ihr lacht, sie lachen
+
+
 
 
 für das Wetter:

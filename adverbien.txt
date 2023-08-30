@@ -7,7 +7,6 @@ deutsche_adverbien:
 - pünktlich
 
 - gut
-- froh
 - schlecht
 - besser
 - schlechter
@@ -25,15 +24,15 @@ deutsche_adverbien:
 - zusammen
 - getrennt / allein
 
-
+- froh
 
 2. die Zeit:
 - jetzt
 - dann
 - bald
 
-- später
-- früher
+- spät / später
+- früh / früher
 
 für die Frequenz:
 - immer
