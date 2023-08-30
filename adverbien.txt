@@ -26,6 +26,8 @@ deutsche_adverbien:
 
 - froh
 
+- circa
+
 2. die Zeit:
 - jetzt
 - dann
@@ -56,6 +58,7 @@ für der Tag:
 - weit weg
 - rechts
 - links
+- geradeaus
 - hinten
 - vorne
 
