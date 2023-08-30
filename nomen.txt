@@ -186,6 +186,8 @@ die Blume
 
 der Park
 die Kirche
+der Fluss
+das Stadtzentrum
 
 der Bahnhof
 die Fahrkarte
@@ -197,6 +199,7 @@ die Achtung
 das Gleis
 das Reisezentrum
 der Sitz
+die Bushaltestelle
 
 
 
