@@ -72,6 +72,8 @@ für der Tag:
 - ein bisschen
 - so
 
+- lange
+
 
 5. Verneinungsadverbien:
 - nicht
@@ -83,7 +85,7 @@ für der Tag:
 - Was?
 - Wann?
 - Wo?
-- Wer
+- Wer?
 - Wie?
 - Warum?
 - Welche?
@@ -91,6 +93,7 @@ für der Tag:
 - Woher?
 
 - Wie viel?
+- Wie lange?
 
 
 7. Relativadverbien:
