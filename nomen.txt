@@ -42,6 +42,9 @@ die Suppe
 der Kuchen
 das Eis
 der Nachtisch
+der Hunger
+der Durst
+die Mahlzeit
 
 
 
