@@ -188,6 +188,7 @@ der Park
 die Kirche
 der Fluss
 das Stadtzentrum
+der Zoo
 
 der Bahnhof
 die Fahrkarte
@@ -230,6 +231,7 @@ das Konzert
 die Eintrittskarte
 das Schwimmbad
 das Museum
+das Kunstmuseum
 das Aufzug
 die Bank
 
