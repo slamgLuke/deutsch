@@ -201,6 +201,7 @@ das Gleis
 das Reisezentrum
 der Sitz
 die Bushaltestelle
+die Taxifahren
 
 
 
@@ -210,8 +211,7 @@ die Bibliothek
 das Restaurant
 das Hotel
 die Apotheke
-die U-Bahnstation
-das Taxi
+die U-Bahnstation
 der Taxistand
 die Stadt
 die Bäckerei
@@ -306,3 +306,4 @@ das Schiff
 die U-Bahn
 die Straßenbahn
 der Bus
+das Taxi
