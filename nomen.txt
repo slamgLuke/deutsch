@@ -86,6 +86,7 @@ Künstler/Küntslerin
 Anwalt/Anwältin
 Spieler/Spielerin
 Sänger/Sängerin
+Automechaniker/Automechanikerin
 
 
 die Arbeit
@@ -211,7 +212,7 @@ die Bibliothek
 das Restaurant
 das Hotel
 die Apotheke
-die U-Bahnstation
+die U-Bahnstation
 der Taxistand
 die Stadt
 die Bäckerei
@@ -234,6 +235,10 @@ das Museum
 das Kunstmuseum
 das Aufzug
 die Bank
+die Werkstatt
+die Straße
+die Adresse
+die Post
 
 
 
@@ -257,7 +262,7 @@ die Woche
 der Monat
 das Jahr
 
-der Geburstag
+der Geburtstag
 
 der Montag
 der Dienstag
@@ -266,6 +271,19 @@ der Donnerstag
 der Freitag
 der Samstag
 der Sontag
+
+der Januar
+der Februar
+der März
+der April
+der Mai
+der Juni
+der Juli
+der August
+der September
+der Oktober
+der November
+der Dezember
 
 
 
@@ -307,3 +325,10 @@ die U-Bahn
 die Straßenbahn
 der Bus
 das Taxi
+
+
+der Fuß / Füße
+die Hand / Hände
+der Kopf
+
+

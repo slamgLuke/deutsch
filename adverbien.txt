@@ -50,8 +50,9 @@ für der Tag:
 
 
 3. der Ort und die Richtung:
-- hier
-- dort
+- hier (aquí)
+- da (ahí)
+- dort (allá)
 
 - in der Nähe
 - da drüben
@@ -73,6 +74,7 @@ für der Tag:
 - so
 
 - lange
+- kurz
 
 
 5. Verneinungsadverbien:
@@ -89,7 +91,7 @@ für der Tag:
 - Wie?
 - Warum?
 - Welche?
-
+che
 - Woher?
 
 - Wie viel?

@@ -32,6 +32,9 @@ hören: ich höre, du hörst, es hört, wir hören, ihr hört, sie hören
 sagen: ich sage, du sagst, es sagt, wir sagen, ihr sagt, sie sagen
 denken: ich denke, du denkst, es denkt, wir denken, ihr denkt, sie denken
 glauben: ich glaube, du glaubst, es glaubt, wir glauben, ihr glaubt, sie glauben
+erklären: ich erkläre, du erklärst, es erklärt, wir erklären, ihr erklärt, sie erklären
+
+
 
 Hobbys:
 kochen: ich koche, du kochst, es kocht, wir kochen, ihr kocht, sie kochen
@@ -59,21 +62,31 @@ brauchen: ich brauche, du brauchst, es braucht, wir brauchen, ihr braucht, sie b
 *schlafen: ich schlafe, du schläfst, es schläft, wir schlafen, ihr schlaft, sie schlafen
 +passen: ich passe, du passt, es passt, wir passen, ihr passt, sie passen
 bestellen: ich bestelle, du bestellst, es bestellt, wir bestellen, ihr bestellt, sie bestellen
+besuchen: ich besuche, du besuchst, es besucht, wir besuchen, ihr besucht, sie besuchen
+
+
 
 
 
 *fahren: ich fahre, du fährst, es fährt, wir fahren, ihr fahrt, sie fahren
 fliegen: ich fliege, du fliegst, es fliegt, wir fliegen, ihr fliegt, sie fliegen
 *laufen: ich laufe, du läufst, es läuft, wir laufen, ihr lauft, sie laufen
+spazieren: ich spaziere, du spazierst, es spaziert, wir spazieren, ihr spaziert, sie spazieren
+*fallen: ich falle, du fällst, es fällt, wir fallen, ihr fallt, sie fallen
 
 
 öffnen: ich öffne, du öffst. es öfft, wir öffnen, ihr öfft, sie öffnen
 schließen: ich schließe, du schließt, es schließt, wir schließen, ihr schließt, sie schließen
 stornieren: ich storniere, du stornierst, es storniert, wir stornieren, ihr storniert, sie stornieren
+wiederholen: ich wiederhole, du wiederholst, es wiederholt, wir wiederholen, ihr wiederholt, sie wiederholen
+warten: ich warte, du wartest, es wartet, wir warten, ihr wartet, sie warten
+dauern: ich dauere, du dauerst, es dauert, wir dauern, ihr dauert, sie dauern
 
 schreien: ich schreie, du schreist, es schreit, wir schreien, ihr schreit, sie schreien
 weinen: ich weine, du weinst, es weint, wir weinen, ihr weint, sie weinen
 lachen: ich lache, du lachst, es lacht, wir lachen, ihr lacht, sie lachen
+schweigen: ich schweige, du schweigst, es schweigt, wir schweigen, ihr schweigt, sie schweigen
+
 
 
 

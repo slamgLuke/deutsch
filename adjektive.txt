@@ -65,8 +65,14 @@ für das Gëfuhl:
 - glücklig (das Glück)
 - traurig (die Taurigkeit)
 - fröhlich (die Fröhlichkeit)
+- wütend (die Wut)
+- verärgert (die Verärgerung)
+- froh (die Freude)
+- zufrieden (die Zufriedenheit)
+- überrascht (die Überraschung)
+- enttäuscht (die Enttäuschung)
+- verliebt (die Liebe)
 
-- froh
 
 fur die Stärke:
 - stark
@@ -108,5 +114,11 @@ fur die Schwierigkeit:
 
 - seltsam
 - normal
+
+- krank
+- gesund
+
+- müde
+- wach
 
 
