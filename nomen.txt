@@ -263,6 +263,7 @@ der Monat
 das Jahr
 
 der Geburtstag
+die Party
 
 der Montag
 der Dienstag
