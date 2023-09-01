@@ -87,6 +87,8 @@ weinen: ich weine, du weinst, es weint, wir weinen, ihr weint, sie weinen
 lachen: ich lache, du lachst, es lacht, wir lachen, ihr lacht, sie lachen
 schweigen: ich schweige, du schweigst, es schweigt, wir schweigen, ihr schweigt, sie schweigen
 
+feiern: ich feiere, du feierst, es feiert, wir feiern, ihr feiert, sie feiern
+
 
 
 

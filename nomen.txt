@@ -44,7 +44,7 @@ das Eis
 der Nachtisch
 der Hunger
 der Durst
-die Mahlzeit
+
 
 
 
@@ -264,6 +264,10 @@ das Jahr
 
 der Geburtstag
 die Party
+das Picknick
+das Geschenk
+die Einladung
+
 
 der Montag
 der Dienstag

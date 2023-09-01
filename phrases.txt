@@ -1,5 +1,6 @@
 hallo
 tschüss
+auf Wiedersehen
 entschuldigung / entschuldigen Sie
 wie bitte?
 es tut mir leid
@@ -12,4 +13,5 @@ schade
 genau
 ebenfalls
 gleich
+auf jeden Fall
 
