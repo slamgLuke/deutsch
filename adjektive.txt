@@ -121,4 +121,6 @@ fur die Schwierigkeit:
 - müde
 - wach
 
+- hungrig
+- satt
 

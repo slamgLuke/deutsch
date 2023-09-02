@@ -41,9 +41,14 @@ das Fleisch
 die Suppe
 der Kuchen
 das Eis
+die Pommes
 der Nachtisch
 der Hunger
 der Durst
+das Frühstück
+das Mittagessen
+das Abendessen
+
 
 
 
@@ -202,7 +207,7 @@ das Gleis
 das Reisezentrum
 der Sitz
 die Bushaltestelle
-die Taxifahren
+die Taxifahrt
 
 
 
