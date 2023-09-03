@@ -36,6 +36,9 @@ deutsche_adverbien:
 - spät / später
 - früh / früher
 
+- schon
+- noch
+
 für die Frequenz:
 - immer
 - jeden Tag

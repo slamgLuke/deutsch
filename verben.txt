@@ -48,6 +48,9 @@ singen: ich singe, du singst, es singt, wir singen, ihr singt, sie singen
 fotografieren: ich fotografiere, du fotografierst, es fotografiert, wir fotografieren, ihr fotografiert, sie fotografieren
 tanzen: ich tanze, du tanzt, es tanzt, wir tanzen, ihr tanzt, sie tanzen
 surfen: ich surfe, du surfst, es surft, wir surfen, ihr surft, sie surfen
+campen: ich campe, du camst, es campt, wir campen, ihr campt, sie campen
+joggen: ich jogge, du joggst, es joggt, wir joggen, ihr joggt, sie joggen
+
 
 
 
@@ -63,6 +66,7 @@ brauchen: ich brauche, du brauchst, es braucht, wir brauchen, ihr braucht, sie b
 +passen: ich passe, du passt, es passt, wir passen, ihr passt, sie passen
 bestellen: ich bestelle, du bestellst, es bestellt, wir bestellen, ihr bestellt, sie bestellen
 besuchen: ich besuche, du besuchst, es besucht, wir besuchen, ihr besucht, sie besuchen
+giben: ich gebe, du gibst, es gibt, wir geben, ihr gebt, sie geben
 
 
 
@@ -88,6 +92,7 @@ lachen: ich lache, du lachst, es lacht, wir lachen, ihr lacht, sie lachen
 schweigen: ich schweige, du schweigst, es schweigt, wir schweigen, ihr schweigt, sie schweigen
 
 feiern: ich feiere, du feierst, es feiert, wir feiern, ihr feiert, sie feiern
+grillen: ich grille, du grillst, es grillt, wir grillen, ihr grillt, sie grillen
 
 
 

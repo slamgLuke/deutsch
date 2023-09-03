@@ -124,3 +124,10 @@ fur die Schwierigkeit:
 - hungrig
 - satt
 
+- lieb
+- geehrt
+- böse
+
+
+
+

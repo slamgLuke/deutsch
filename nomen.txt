@@ -28,6 +28,7 @@ das Essen
 das Sandwich
 die Pizza
 die Zutat
+das Dönner
 der Salat
 der Wein
 der Rotwein
@@ -122,6 +123,8 @@ der Junge
 das Mädchen
 das Kind
 
+die Hexe
+
 
 
 Freund/Freundin
@@ -131,6 +134,7 @@ Cousin/Cousine
 
 
 
+das Instrument
 das Klavier
 die Gitarre / E-Gitarren
 die Bassguitarre / E-Bassgitarren
@@ -195,6 +199,11 @@ die Kirche
 der Fluss
 das Stadtzentrum
 der Zoo
+der Wald
+der See
+das Meer
+der Berg
+
 
 der Bahnhof
 die Fahrkarte
@@ -340,5 +349,15 @@ das Taxi
 der Fuß / Füße
 die Hand / Hände
 der Kopf
+
+
+die Lust
+der Plan
+die Idee
+die Frage
+die Antwort
+
+
+
 
 
