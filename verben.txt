@@ -77,6 +77,8 @@ fliegen: ich fliege, du fliegst, es fliegt, wir fliegen, ihr fliegt, sie fliegen
 *laufen: ich laufe, du läufst, es läuft, wir laufen, ihr lauft, sie laufen
 spazieren: ich spaziere, du spazierst, es spaziert, wir spazieren, ihr spaziert, sie spazieren
 *fallen: ich falle, du fällst, es fällt, wir fallen, ihr fallt, sie fallen
+stehen: ich stehe, du stehst, es steht, wir stehen, ihr steht, sie stehen
++sitzen: ich sitze, du sitzt, es sitzt, wir sitzen, ihr sitzt, sie sitzen
 
 
 öffnen: ich öffne, du öffst. es öfft, wir öffnen, ihr öfft, sie öffnen
@@ -93,6 +95,7 @@ schweigen: ich schweige, du schweigst, es schweigt, wir schweigen, ihr schweigt,
 
 feiern: ich feiere, du feierst, es feiert, wir feiern, ihr feiert, sie feiern
 grillen: ich grille, du grillst, es grillt, wir grillen, ihr grillt, sie grillen
++putzen: ich putze, du putzt, es putzt, wir putzen, ihr putzt, sie putzen
 
 
 

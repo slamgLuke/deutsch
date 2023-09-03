@@ -161,6 +161,10 @@ die Couch
 das Sofa
 das Bücherregal
 der Teppich
+das Fenster
+die Wand
+der Boden
+
 
 
 das Schlafzimmer:
@@ -169,6 +173,7 @@ der Schrank
 der Nachttisch
 der Schreibtisch
 die Lampe
+das Kissen
 
 
 die Küche:
@@ -176,6 +181,11 @@ der Kühlschrank
 der Herd
 der Ofen
 der Toaster
+der Kühlschrank
+der Mikrowellenherd
+das Kabinett
+
+
 
 der Topf
 die Pfanne
@@ -186,6 +196,12 @@ das Messer
 
 
 das Badezimmer
+die Badewanne
+das Waschbecken
+die Toilette
+die Dusche
+der Spiegel
+
 
 der Garten:
 die Planfze
@@ -194,15 +210,16 @@ die Blume
 
 
 
-der Park
-die Kirche
-der Fluss
-das Stadtzentrum
-der Zoo
+das Land
+die Ebenen
+die Wüste
 der Wald
+der Berg
+der Fluss
 der See
 das Meer
-der Berg
+der Park
+der Zoo
 
 
 der Bahnhof
@@ -220,6 +237,8 @@ die Taxifahrt
 
 
 
+das Stadtzentrum
+die Kirche
 der Markt
 der Supermarkt
 die Bibliothek
@@ -343,7 +362,13 @@ das Schiff
 die U-Bahn
 die Straßenbahn
 der Bus
+der Schulbus
 das Taxi
+der Lustkraftwagen
+das Boot
+der Sattelzug
+
+
 
 
 der Fuß / Füße
