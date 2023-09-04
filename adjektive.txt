@@ -100,6 +100,7 @@ fur die Schwierigkeit:
 - modern
 - schick
 - sauber
+- schmutzig
 - fantastisch
 
 
@@ -128,6 +129,11 @@ fur die Schwierigkeit:
 - geehrt
 - böse
 
+- höflich
+- unhöflich
+
+- fertig
+- unfertig
 
 
 

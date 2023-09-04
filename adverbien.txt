@@ -5,10 +5,12 @@ deutsche_adverbien:
 - freundlich
 - wirklich
 - pünktlich
+- höflich
 
 - gut
 - schlecht
 - besser
+- bester
 - schlechter
 - gleich
 
@@ -27,6 +29,9 @@ deutsche_adverbien:
 - froh
 
 - circa
+- dazu
+- genug
+
 
 2. die Zeit:
 - jetzt
@@ -50,6 +55,11 @@ für der Tag:
 - heute
 - gestern
 - morgen
+
+
+- morgens
+- abends
+- nachts
 
 
 3. der Ort und die Richtung:
@@ -78,6 +88,20 @@ für der Tag:
 
 - lange
 - kurz
+
+- manche
+- einige
+- wenige
+- viele
+- alle
+
+- fast
+- nur
+- sogar
+- auch
+
+- ziemlich
+
 
 
 5. Verneinungsadverbien:

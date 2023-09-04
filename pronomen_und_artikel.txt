@@ -1,7 +1,9 @@
-deutsche_pronomen_und_artikel:
+eutsche_pronomen_und_artikel:
 ------------------------------
 
 Personalpronomen:
+
+Nomiative Case:
 
     Ich (I)
     Du (you, informal singular)
@@ -23,7 +25,7 @@ Genitive Case:
     Euer (yours)
     Ihrer (theirs)
 
-Dative Case:
+Dative Case: To whom?
 
     Mir (me)
     Dir (you, informal singular)
@@ -34,7 +36,7 @@ Dative Case:
     Euch (you all, informal plural)
     Ihnen (you, formal plural), Ihnen (them)
 
-Accusative Case:
+Accusative Case: Whom?
 
     Mich (me)
     Dich (you, informal singular)

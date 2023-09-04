@@ -35,6 +35,7 @@ der Rotwein
 das Bier
 die Wasserflasche
 das Glas
+die Tasse
 die Cola
 die Limonade
 die Apfelschorle
@@ -55,6 +56,7 @@ das Abendessen
 
 
 
+das Tier
 der Hund
 die Katze
 der Bär
@@ -70,6 +72,15 @@ die Maus
 die Kuh
 das Schwein
 das Pferd
+die Ente
+die Gans
+der Hase
+der Fuchs
+der Löwe
+der Tiger
+der Affe
+der Schmetterling
+die Biene
 
 
 
@@ -222,6 +233,7 @@ der Park
 der Zoo
 
 
+die Reise
 der Bahnhof
 die Fahrkarte
 die Hind- und Rückfahrkarte
@@ -327,9 +339,23 @@ der Dezember
 
 die Kleidung
 der Schuh -> Schuhe
+der Stiefel -> Stiefel
+der Handschuh -> Handschuhe
+die Socke -> Socken
+der Pullover
 das Kleid
 das Sakko
 das Hemd
+die Bluse
+die Hose
+die Jeans
+die Jacke
+der Gürtel
+der Rock
+der Hut
+die Unterhose
+die Büstenhalter
+
 der Schal
 der Regenschirm
 
@@ -374,6 +400,42 @@ der Sattelzug
 der Fuß / Füße
 die Hand / Hände
 der Kopf
+das Gesicht
+das Auge / Augen
+die Nase
+der Mund
+das Ohr / Ohren
+der Hals
+der Arm / Arme
+die Schulter
+der Rücken
+der Bauch
+das Bein / Beine
+der Fuß / Füße
+der Zeh / Zehen
+der Finger
+der Nagel
+das Knie
+der Zahn / Zähne
+das Haar / Haare
+der Bart
+der Schnurrbart
+die Brille
+die Brust
+der Po
+der Muskel
+die Haut
+
+
+
+die Tablette
+die Medizin
+der Kopfschmerz
+
+
+
+
+
 
 
 die Lust
@@ -381,8 +443,18 @@ der Plan
 die Idee
 die Frage
 die Antwort
+der Wunsch
+die Bitte
 
-
-
+das Wort
+der Satz
+der Ausdruck
+der Brief
+die E-Mail
+die Postkarte
+das Telefonat
+das Gespräch
+die Nachricht
+die Sprache
 
 

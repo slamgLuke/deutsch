@@ -19,13 +19,14 @@ kaufen: ich kaufe, du kaufst, es kauft, wir kaufen, ihr kauft, sie kaufen
 zahlen: ich zahle, du zahlst, es zahlt, wir zahlen, ihr zahlt, sie zahlen
 lieben: ich liebe, du liebst, es liebt, wir lieben, ihr liebt, sie lieben
 *geben: ich gebe, du gibst, es gibt, wir geben, ihr gebt, sie geben
-
-
+verlieren: ich verliere, du verlierst, es verliert, wir verlieren, ihr verliert, sie verlieren
+finden: ich finde, du findest, es findet, wir finden, ihr findet, sie finden
 suchen: ich suche, du suchst, es sucht, wir suchen, ihr sucht, sie suchen
 +heißen: ich heiße, du heißt, es heißt, wir heißen, ihr heißt, sie heißen
 leben: ich lebe, du lebst, es lebt, wir leben, ihr lebt, sie leben
 
 *sprechen: ich spreche, du sprichst, es spricht, wir sprechen, ihr sprecht, sie sprechen
+erzählen: ich erzähle, du erzählst, es erzählt, wir erzählen, ihr erzählt, sie erzählen
 schreiben: ich schreibe, du schreibst, es schreibt, wir schreiben, ihr schreibt, sie schreiben
 +lesen: ich lese, du liest, es liest, wir lesen, ihr lest, sie lesen
 hören: ich höre, du hörst, es hört, wir hören, ihr hört, sie hören
@@ -33,6 +34,11 @@ sagen: ich sage, du sagst, es sagt, wir sagen, ihr sagt, sie sagen
 denken: ich denke, du denkst, es denkt, wir denken, ihr denkt, sie denken
 glauben: ich glaube, du glaubst, es glaubt, wir glauben, ihr glaubt, sie glauben
 erklären: ich erkläre, du erklärst, es erklärt, wir erklären, ihr erklärt, sie erklären
+kennen: ich kenne, du kennst, es kennt, wir kennen, ihr kennt, sie kennen
+auszudrücken: ich drücke aus, du drückst aus, es drückt aus, wir drücken aus, ihr drückt aus, sie drücken aus
+zeigen: ich zeige, du zeigst, es zeigt, wir zeigen, ihr zeigt, sie zeigen
+
+
 
 
 
@@ -92,18 +98,49 @@ schreien: ich schreie, du schreist, es schreit, wir schreien, ihr schreit, sie s
 weinen: ich weine, du weinst, es weint, wir weinen, ihr weint, sie weinen
 lachen: ich lache, du lachst, es lacht, wir lachen, ihr lacht, sie lachen
 schweigen: ich schweige, du schweigst, es schweigt, wir schweigen, ihr schweigt, sie schweigen
+überraschen: ich überrasche, du überraschst, es überrascht, wir überraschen, ihr überrascht, sie überraschen
+lächeln: ich lächle, du lächelst, es lächelt, wir lächeln, ihr lächelt, sie lächeln
+langweilen: ich langweile, du langweilst, es langweilt, wir langweilen, ihr langweilt, sie langweilen
+interessieren: ich interessiere, du interessierst, es interessiert, wir interessieren, ihr interessiert, sie interessieren
+freuen: ich freue, du freust, es freut, wir freuen, ihr freut, sie freuen
+ärgern: ich ärgere, du ärgerst, es ärgert, wir ärgern, ihr ärgert, sie ärgern
+schmerzen: ich schmerze, du schmerzt, es schmerzt, wir schmerzen, ihr schmerzt, sie schmerzen
+vermissen: ich vermisse, du vermisst, es vermisst, wir vermissen, ihr vermisst, sie vermissen
+vergessen: ich vergesse, du vergisst, es vergisst, wir vergessen, ihr vergesst, sie vergessen
+verzeihen: ich verzeihe, du verzeihst, es verzeiht, wir verzeihen, ihr verzeiht, sie verzeihen
+zeihen: ich zeihe, du zeihst, es zeiht, wir zeihen, ihr zeiht, sie zeihen
+
+
 
 feiern: ich feiere, du feierst, es feiert, wir feiern, ihr feiert, sie feiern
-grillen: ich grille, du grillst, es grillt, wir grillen, ihr grillt, sie grillen
 +putzen: ich putze, du putzt, es putzt, wir putzen, ihr putzt, sie putzen
 
 
 
 
 
-für das Wetter:
+- für das Wetter:
 regnen: es regnet
 schneien: es schneit
+
+
+- in der Küche:
+kochen: ich koche, du kochst, es kocht, wir kochen, ihr kocht, sie kochen
+backen: ich backe, du backst, es backt, wir backen, ihr backt, sie backen
+grillen: ich grille, du grillst, es grillt, wir grillen, ihr grillt, sie grillen
+braten: ich brate, du brätst, es brät, wir braten, ihr bratet, sie braten
+fritieren: ich fritiere, du fritierst, es fritiert, wir fritieren, ihr fritiert, sie fritieren
+dämpfen: ich dämpfe, du dämpfst, es dämpft, wir dämpfen, ihr dämpft, sie dämpfen
+dünsten: ich dünste, du dünstest, es dünstet, wir dünsten, ihr dünstet, sie dünsten
+
+schneiden: ich schneide, du schneidest, es schneidet, wir schneiden, ihr schneidet, sie schneiden
+schälen: ich schäle, du schälst, es schält, wir schälen, ihr schält, sie schälen
+reiben: ich reibe, du reibst, es reibt, wir reiben, ihr reibt, sie reiben
+würzen: ich würze, du würzt, es würzt, wir würzen, ihr würzt, sie würzen
+
+waschen: ich wasche, du wäschst, es wäscht, wir waschen, ihr wascht, sie waschen
+abswaschen: ich wasche ab, du wäschst ab, es wäscht ab, wir waschen ab, ihr wascht ab, sie waschen ab
+
 
 
 "to use":
@@ -144,7 +181,7 @@ müssen/mussten: ich musste, du musstest, es musste, wir mussten, ihr musstet, s
 
 
 
-## Partizip I (present continous): -end/-nd       [nutz oft nicht]
+## Partizip I (present continous): -end/-nd
 Ich bin spielend, du bist gehend
 
 

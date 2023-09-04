@@ -24,14 +24,14 @@ versus: gegenüber (versus)
 vía: über (via/through)
 
 
-im: in dem
-ins: in das
-am: an dem
+im: in dem <- Use for Months, Years, Seasons
+ins: (into) das
+am: an dem <- Use for Days
 ans: an das
 vom: von dem
 vons: von das
-zum: zu dem
-zur: zu der
+zum: zu dem (masculine)
+zur: zu der (feminine)
 aufs: auf das
 durchs: durch das
 fürs: für das
