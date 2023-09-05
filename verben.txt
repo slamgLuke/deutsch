@@ -24,6 +24,8 @@ finden: ich finde, du findest, es findet, wir finden, ihr findet, sie finden
 suchen: ich suche, du suchst, es sucht, wir suchen, ihr sucht, sie suchen
 +heißen: ich heiße, du heißt, es heißt, wir heißen, ihr heißt, sie heißen
 leben: ich lebe, du lebst, es lebt, wir leben, ihr lebt, sie leben
+gehen: ich gehe, du gehst, es geht, wir gehen, ihr geht, sie gehen
+verlassen: ich verlasse, du verlässt, es verlässt, wir verlassen, ihr verlasst, sie verlassen
 
 *sprechen: ich spreche, du sprichst, es spricht, wir sprechen, ihr sprecht, sie sprechen
 erzählen: ich erzähle, du erzählst, es erzählt, wir erzählen, ihr erzählt, sie erzählen
@@ -49,7 +51,6 @@ schwimmen: ich schwimme, du schwimmst, es schwimmt, wir schwimmen, ihr schwimmt,
 malen: ich male, du malst, es malt, wir malen, ihr malt, sie malen
 wandern: ich wandere, du wanderst, es wandert, wir wandern, ihr wandert, sie wandern
 +reisen: ich reise, du reist, es reist, wir reisen, ihr reist, sie reisen
-gehen: ich gehe, du gehst, es geht, wir gehen, ihr geht, sie gehen
 singen: ich singe, du singst, es singt, wir singen, ihr singt, sie singen
 fotografieren: ich fotografiere, du fotografierst, es fotografiert, wir fotografieren, ihr fotografiert, sie fotografieren
 tanzen: ich tanze, du tanzt, es tanzt, wir tanzen, ihr tanzt, sie tanzen
@@ -73,7 +74,7 @@ brauchen: ich brauche, du brauchst, es braucht, wir brauchen, ihr braucht, sie b
 bestellen: ich bestelle, du bestellst, es bestellt, wir bestellen, ihr bestellt, sie bestellen
 besuchen: ich besuche, du besuchst, es besucht, wir besuchen, ihr besucht, sie besuchen
 giben: ich gebe, du gibst, es gibt, wir geben, ihr gebt, sie geben
-
+studieren: ich studiere, du studierst, es studiert, wir studieren, ihr studiert, sie studieren
 
 
 
@@ -85,6 +86,7 @@ spazieren: ich spaziere, du spazierst, es spaziert, wir spazieren, ihr spaziert,
 *fallen: ich falle, du fällst, es fällt, wir fallen, ihr fallt, sie fallen
 stehen: ich stehe, du stehst, es steht, wir stehen, ihr steht, sie stehen
 +sitzen: ich sitze, du sitzt, es sitzt, wir sitzen, ihr sitzt, sie sitzen
+bleiben: ich bleibe, du bleibst, es bleibt, wir bleiben, ihr bleibt, sie bleiben
 
 
 öffnen: ich öffne, du öffst. es öfft, wir öffnen, ihr öfft, sie öffnen
@@ -109,6 +111,7 @@ vermissen: ich vermisse, du vermisst, es vermisst, wir vermissen, ihr vermisst, 
 vergessen: ich vergesse, du vergisst, es vergisst, wir vergessen, ihr vergesst, sie vergessen
 verzeihen: ich verzeihe, du verzeihst, es verzeiht, wir verzeihen, ihr verzeiht, sie verzeihen
 zeihen: ich zeihe, du zeihst, es zeiht, wir zeihen, ihr zeiht, sie zeihen
+aussehen: ich sehe aus, du siehst aus, es sieht aus, wir sehen aus, ihr seht aus, sie sehen aus
 
 
 

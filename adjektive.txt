@@ -43,7 +43,9 @@ für der Schall, die Lautstärke
 
 für das Alter:
 - alt
-- jung / (neue)
+- jung
+- neu
+- modern
 
 für die Farbe: (die Farben sind neutrale Substantive)
 - schwarz
@@ -135,5 +137,11 @@ fur die Schwierigkeit:
 - fertig
 - unfertig
 
+- lustig
+- komisch
+
+- klug
+- intelligent
+- dumm
 
 

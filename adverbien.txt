@@ -123,6 +123,7 @@ che
 
 - Wie viel?
 - Wie lange?
+- Um wie viel Uhr?
 
 
 7. Relativadverbien:

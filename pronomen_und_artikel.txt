@@ -52,13 +52,13 @@ Accusative Case: Whom?
 
 Possessivepronomen:
 
-mein - ich
-dein - du
-sein/ihr/sein - er/sie/es
-unser - wir
-euer - ihr
-ihr - sie
-Ihr - Sie
+mein (nom) - meiner (gen) - meinem (dat) - meinen (akk)
+dein (nom) - deiner (gen) - deinem (dat) - deinen (akk)
+sein (nom) - seiner (gen) - seinem (dat) - seinen (akk)
+ihr (nom) - ihrer (gen) - ihrem (dat) - ihren (akk)
+unser (nom) - unser (gen) - unserem (dat) - unseren (akk)
+euer (nom) - euer (gen) - eurem (dat) - euren (akk)
+ihr (nom) - ihrer (gen) - ihrem (dat) - ihren (akk)
 
 
 

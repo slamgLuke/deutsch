@@ -104,6 +104,14 @@ Anwalt/Anwältin
 Spieler/Spielerin
 Sänger/Sängerin
 Automechaniker/Automechanikerin
+Koch/Köchin
+Bäcker/Bäckerin
+Kassierer/Kassiererin
+Architekt/Architektin
+Buchhalter/Buchhalterin
+Friseur/Friseurin
+Krankenschwester/Krankenpfleger
+
 
 
 die Arbeit
@@ -133,6 +141,8 @@ die Oma
 der Junge
 das Mädchen
 das Kind
+das Baby
+der Teenager
 
 die Hexe
 
@@ -278,6 +288,7 @@ die Eintrittskarte
 das Schwimmbad
 das Museum
 das Kunstmuseum
+das Bild
 das Aufzug
 die Bank
 die Werkstatt
@@ -362,7 +373,6 @@ der Regenschirm
 
 
 der Himmel
-die Erde
 die Sonne
 der Mond
 der Stern
@@ -370,12 +380,19 @@ die Wolke
 der Regen
 der Schnee
 
+das Wasser
+das Feuer
+die Luft
+die Erde
+
 der Frühling
 der Sommer
 der Herbst
 der Winter
 
 die Sonnencreme
+die Sonnenbrille
+
 
 
 der Zug
@@ -431,15 +448,31 @@ die Haut
 die Tablette
 die Medizin
 der Kopfschmerz
+der Bauchschmerz
+der Zahnschmerz
+die Besserung
 
 
 
+die Psychologie
+die Geschichte
+die Mathematik
+die Physik
+die Chemie
+die Biologie
+die Geographie
+die Informatik
+die Wirtschaft
+die Politik
+die Literatur
+die Kunst
 
 
 
 
 die Lust
 der Plan
+der Termin
 die Idee
 die Frage
 die Antwort
