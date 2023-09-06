@@ -323,6 +323,8 @@ die Party
 das Picknick
 das Geschenk
 die Einladung
+der Spaß
+das Oktoberfest
 
 
 der Montag
