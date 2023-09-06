@@ -95,6 +95,8 @@ stornieren: ich storniere, du stornierst, es storniert, wir stornieren, ihr stor
 wiederholen: ich wiederhole, du wiederholst, es wiederholt, wir wiederholen, ihr wiederholt, sie wiederholen
 warten: ich warte, du wartest, es wartet, wir warten, ihr wartet, sie warten
 dauern: ich dauere, du dauerst, es dauert, wir dauern, ihr dauert, sie dauern
+beginnen: ich beginne, du beginnst, es beginnt, wir beginnen, ihr beginnt, sie beginnen
+enden: iche ende, du endest, es endet, wir enden, ihr endet, sie endet
 
 schreien: ich schreie, du schreist, es schreit, wir schreien, ihr schreit, sie schreien
 weinen: ich weine, du weinst, es weint, wir weinen, ihr weint, sie weinen
