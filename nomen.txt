@@ -147,6 +147,8 @@ das Baby
 der Teenager
 
 die Hexe
+die Leute
+die Band
 
 
 
@@ -471,6 +473,7 @@ die Wirtschaft
 die Politik
 die Literatur
 die Kunst
+die Musik
 
 
 
