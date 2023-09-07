@@ -33,6 +33,7 @@ der Salat
 der Wein
 der Rotwein
 das Bier
+das Weißbier
 die Wasserflasche
 das Glas
 die Tasse
@@ -45,6 +46,7 @@ der Kuchen
 das Eis
 die Pommes
 der Nachtisch
+der Keks
 der Hunger
 der Durst
 das Frühstück
@@ -295,6 +297,7 @@ die Werkstatt
 die Straße
 die Adresse
 die Post
+das Riesenrad
 
 
 
@@ -444,7 +447,7 @@ die Brust
 der Po
 der Muskel
 die Haut
-
+das Herz
 
 
 die Tablette
