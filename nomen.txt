@@ -17,11 +17,15 @@ die Milch
 das Ei
 der Kaffee
 der Tee
+das Brot
+das Brötchen
+die Butter
 das Salz
 der Zucker
 der Pfeffer
 der Käse
 der Schinken
+das Hähnchen
 das Mineralwasser
 das Schnitzel
 das Essen
@@ -47,6 +51,9 @@ das Eis
 die Pommes
 der Nachtisch
 der Keks
+das Müsli
+der Joghurt
+die Nudel
 der Hunger
 der Durst
 das Frühstück
@@ -73,6 +80,7 @@ der Pinguin
 die Maus
 die Kuh
 das Schwein
+das Huhn
 das Pferd
 die Ente
 die Gans
@@ -113,6 +121,9 @@ Architekt/Architektin
 Buchhalter/Buchhalterin
 Friseur/Friseurin
 Krankenschwester/Krankenpfleger
+Zahnarzt/Zahnärztin
+Chef/Chefin
+Kolleger/Kollegin
 
 
 
@@ -149,6 +160,27 @@ der Teenager
 die Hexe
 die Leute
 die Band
+
+
+Deutschland
+Frankreich
+England / Großbritannien
+Spanien
+Italien
+Österreich
+Amerika
+Kanada
+China
+
+Deutscher/Deutsche
+Franzose/Französin
+Engländer/Engländerin
+Spanier/Spanierin
+Italiener/Italienerin
+Österreicher/Österreicherin
+Amerikaner/Amerikanerin
+Kanadier/Kanadierin
+Chinese/Chinesin
 
 
 
@@ -189,6 +221,7 @@ der Teppich
 das Fenster
 die Wand
 der Boden
+der Kaffeetisch
 
 
 
@@ -206,9 +239,9 @@ der Kühlschrank
 der Herd
 der Ofen
 der Toaster
-der Kühlschrank
 der Mikrowellenherd
 das Kabinett
+die Kaffeemaschine
 
 
 
@@ -300,6 +333,7 @@ die Straße
 die Adresse
 die Post
 das Riesenrad
+das Büro
 
 
 
@@ -317,6 +351,7 @@ die Abend
 
 die Sekunde
 die Minute
+das Viertel
 die Stunde
 der Tag
 die Woche
@@ -497,5 +532,16 @@ das Telefonat
 das Gespräch
 die Nachricht
 die Sprache
+
+
+
+der Rucksack
+der Koffer
+die Schlüssel
+die Pistole
+das Gewehr
+das Messer
+
+
 
 

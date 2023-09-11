@@ -51,11 +51,25 @@ für die Frequenz:
 - manchmal
 - nie
 
+- einmal
+- zweimal
+- dreimal
+- viermal
+
+
+
 für der Tag:
 - heute
 - gestern
 - morgen
 
+- montags
+- dienstags
+- mittwochs
+- donnerstags
+- freitags
+- samstags
+- sonntags
 
 - morgens
 - abends
@@ -124,6 +138,7 @@ che
 - Wie viel?
 - Wie lange?
 - Um wie viel Uhr?
+- Wie spät?
 
 
 7. Relativadverbien:

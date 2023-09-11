@@ -116,6 +116,7 @@ fur die Schwierigkeit:
 - früh
 
 - seltsam
+- komisch
 - normal
 
 - krank

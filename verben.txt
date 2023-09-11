@@ -75,7 +75,8 @@ bestellen: ich bestelle, du bestellst, es bestellt, wir bestellen, ihr bestellt,
 besuchen: ich besuche, du besuchst, es besucht, wir besuchen, ihr besucht, sie besuchen
 giben: ich gebe, du gibst, es gibt, wir geben, ihr gebt, sie geben
 studieren: ich studiere, du studierst, es studiert, wir studieren, ihr studiert, sie studieren
-
+treffen: ich treffe, du triffst, es trifft, wir treffen, ihr trefft, sie treffen
+liegen: ich liege, du liegst, es liegt, wir liegen, ihr liegt, sie liegen
 
 
 
@@ -99,27 +100,33 @@ beginnen: ich beginne, du beginnst, es beginnt, wir beginnen, ihr beginnt, sie b
 enden: iche ende, du endest, es endet, wir enden, ihr endet, sie endet
 
 schreien: ich schreie, du schreist, es schreit, wir schreien, ihr schreit, sie schreien
+schweigen: ich schweige, du schweigst, es schweigt, wir schweigen, ihr schweigt, sie schweigen
 weinen: ich weine, du weinst, es weint, wir weinen, ihr weint, sie weinen
 lachen: ich lache, du lachst, es lacht, wir lachen, ihr lacht, sie lachen
-schweigen: ich schweige, du schweigst, es schweigt, wir schweigen, ihr schweigt, sie schweigen
-überraschen: ich überrasche, du überraschst, es überrascht, wir überraschen, ihr überrascht, sie überraschen
 lächeln: ich lächle, du lächelst, es lächelt, wir lächeln, ihr lächelt, sie lächeln
+überraschen: ich überrasche, du überraschst, es überrascht, wir überraschen, ihr überrascht, sie überraschen
 langweilen: ich langweile, du langweilst, es langweilt, wir langweilen, ihr langweilt, sie langweilen
 interessieren: ich interessiere, du interessierst, es interessiert, wir interessieren, ihr interessiert, sie interessieren
 freuen: ich freue, du freust, es freut, wir freuen, ihr freut, sie freuen
 ärgern: ich ärgere, du ärgerst, es ärgert, wir ärgern, ihr ärgert, sie ärgern
+hassen: ich hasse, du hasst, es hasst, wir hassen, ihr hasst, sie hassen
 schmerzen: ich schmerze, du schmerzt, es schmerzt, wir schmerzen, ihr schmerzt, sie schmerzen
 vermissen: ich vermisse, du vermisst, es vermisst, wir vermissen, ihr vermisst, sie vermissen
 vergessen: ich vergesse, du vergisst, es vergisst, wir vergessen, ihr vergesst, sie vergessen
 verzeihen: ich verzeihe, du verzeihst, es verzeiht, wir verzeihen, ihr verzeiht, sie verzeihen
-zeihen: ich zeihe, du zeihst, es zeiht, wir zeihen, ihr zeiht, sie zeihen
-aussehen: ich sehe aus, du siehst aus, es sieht aus, wir sehen aus, ihr seht aus, sie sehen aus
-
 
 
 feiern: ich feiere, du feierst, es feiert, wir feiern, ihr feiert, sie feiern
 +putzen: ich putze, du putzt, es putzt, wir putzen, ihr putzt, sie putzen
+aussehen: ich sehe aus, du siehst aus, es sieht aus, wir sehen aus, ihr seht aus, sie sehen aus
 
+
+
+
+schießen: ich schieße, du schießt, es schießt, wir schießen, ihr schießt, sie schießen
+töten: ich töte, du tötest, es tötet, wir töten, ihr tötet, sie töten
+schlagen: ich schlage, du schlägst, es schlägt, wir schlagen, ihr schlagt, sie schlagen
+schneiden: ich schneide, du schneidest, es schneidet, wir schneiden, ihr schneidet, sie schneiden
 
 
 
