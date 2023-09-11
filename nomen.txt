@@ -13,6 +13,7 @@ die Zwiebel
 der Gurke
 die Kartoffel
 das Wasser
+das Öl
 die Milch
 das Ei
 der Kaffee
@@ -185,6 +186,7 @@ Chinese/Chinesin
 
 
 Freund/Freundin
+Feind/Feindin
 Partner/Partnerin
 Mitbewohner/Mitbewohnerin
 Cousin/Cousine
@@ -218,11 +220,15 @@ die Couch
 das Sofa
 das Bücherregal
 der Teppich
-das Fenster
-die Wand
-der Boden
 der Kaffeetisch
 
+
+die Decke
+das Dach
+die Wand
+der Boden
+das Fenster
+der Balkon
 
 
 das Schlafzimmer:
@@ -243,8 +249,6 @@ der Mikrowellenherd
 das Kabinett
 die Kaffeemaschine
 
-
-
 der Topf
 die Pfanne
 der Teller
@@ -253,7 +257,7 @@ der Löffel
 das Messer
 
 
-das Badezimmer
+das Badezimmer:
 die Badewanne
 das Waschbecken
 die Toilette
@@ -264,6 +268,8 @@ der Spiegel
 der Garten:
 die Planfze
 die Blume
+der Rasen
+der Baum
 
 
 
@@ -308,16 +314,26 @@ die U-Bahnstation
 der Taxistand
 die Stadt
 die Bäckerei
+
 die Universität
 die Schule
+der Kurse
+die Klasse
+die Prüfung
+die Hausaufgabe
+die Note
+die Pause
+
+
 das Haus
+das Gebäude
+die Wohnung
 das Krankenhaus
 das Café
 das Kino
 das Kaufhaus
 die Toilette
 der MarktPlatz
-die Wohnung
 der Flughafen
 das Flugticket
 das Konzert
@@ -426,6 +442,14 @@ das Wasser
 das Feuer
 die Luft
 die Erde
+
+der Strom
+das Licht
+die Wärme
+die Kälte
+der Schatten
+die Dunkelheit
+
 
 der Frühling
 der Sommer

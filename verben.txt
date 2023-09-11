@@ -19,9 +19,11 @@ kaufen: ich kaufe, du kaufst, es kauft, wir kaufen, ihr kauft, sie kaufen
 zahlen: ich zahle, du zahlst, es zahlt, wir zahlen, ihr zahlt, sie zahlen
 lieben: ich liebe, du liebst, es liebt, wir lieben, ihr liebt, sie lieben
 *geben: ich gebe, du gibst, es gibt, wir geben, ihr gebt, sie geben
-verlieren: ich verliere, du verlierst, es verliert, wir verlieren, ihr verliert, sie verlieren
 finden: ich finde, du findest, es findet, wir finden, ihr findet, sie finden
+verlieren: ich verliere, du verlierst, es verliert, wir verlieren, ihr verliert, sie verlieren
 suchen: ich suche, du suchst, es sucht, wir suchen, ihr sucht, sie suchen
+vergessen: ich vergesse, du vergisst, es vergisst, wir vergessen, ihr vergesst, sie vergessen
+erinern: ich erinere, du erinerst, es erinert, wir erinern, ihr erinert, sie erinern
 +heißen: ich heiße, du heißt, es heißt, wir heißen, ihr heißt, sie heißen
 leben: ich lebe, du lebst, es lebt, wir leben, ihr lebt, sie leben
 gehen: ich gehe, du gehst, es geht, wir gehen, ihr geht, sie gehen
@@ -113,7 +115,6 @@ freuen: ich freue, du freust, es freut, wir freuen, ihr freut, sie freuen
 hassen: ich hasse, du hasst, es hasst, wir hassen, ihr hasst, sie hassen
 schmerzen: ich schmerze, du schmerzt, es schmerzt, wir schmerzen, ihr schmerzt, sie schmerzen
 vermissen: ich vermisse, du vermisst, es vermisst, wir vermissen, ihr vermisst, sie vermissen
-vergessen: ich vergesse, du vergisst, es vergisst, wir vergessen, ihr vergesst, sie vergessen
 verzeihen: ich verzeihe, du verzeihst, es verzeiht, wir verzeihen, ihr verzeiht, sie verzeihen
 
 
