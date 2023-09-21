@@ -35,6 +35,7 @@ deutsche_adverbien:
 
 2. die Zeit:
 - jetzt
+- zurzeit
 - dann
 - bald
 

@@ -125,6 +125,9 @@ Krankenschwester/Krankenpfleger
 Zahnarzt/Zahnärztin
 Chef/Chefin
 Kolleger/Kollegin
+Aufseher/Aufseherin
+
+das Genie
 
 
 
@@ -151,6 +154,8 @@ die Tante
 die Großeltern
 der Opa
 die Oma
+
+Nachbar/Nachbarin
 
 der Junge
 das Mädchen
@@ -213,14 +218,16 @@ das Radio
 
 die Wohnzimmer:
 die Tür
-der Tisch
-der Stuhl
+der Tisch / Tische
+der Stuhl / Stühle
 der Fernseher
 die Couch
 das Sofa
 das Bücherregal
 der Teppich
 der Kaffeetisch
+die Vase
+das Regal
 
 
 die Decke
@@ -229,15 +236,17 @@ die Wand
 der Boden
 das Fenster
 der Balkon
+die Treppe
 
 
 das Schlafzimmer:
 das Bett
+die Bettdecke
 der Schrank
 der Nachttisch
 der Schreibtisch
 die Lampe
-das Kissen
+das Kopfkissen
 
 
 die Küche:
@@ -245,10 +254,12 @@ der Kühlschrank
 der Herd
 der Ofen
 der Toaster
-der Mikrowellenherd
+der Mikrowelle/Mikrowellenherd
 das Kabinett
 die Kaffeemaschine
 
+
+das Esszimmer:
 der Topf
 die Pfanne
 der Teller
@@ -267,7 +278,7 @@ der Spiegel
 
 der Garten:
 die Planfze
-die Blume
+die Blume / Blumen
 der Rasen
 der Baum
 
@@ -328,6 +339,9 @@ die Pause
 das Haus
 das Gebäude
 die Wohnung
+das Mehrfamilienhaus
+der WG
+
 das Krankenhaus
 das Café
 das Kino
@@ -362,7 +376,7 @@ das Bargeld
 
 deer Morgen
 der Nachmittag
-die Nacht
+die Nacht / Nächte
 die Abend
 
 die Sekunde
@@ -556,12 +570,14 @@ das Telefonat
 das Gespräch
 die Nachricht
 die Sprache
+die Buch / Bücher
 
 
 
 der Rucksack
 der Koffer
 die Schlüssel
+der Pass
 die Pistole
 das Gewehr
 das Messer

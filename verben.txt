@@ -26,6 +26,7 @@ vergessen: ich vergesse, du vergisst, es vergisst, wir vergessen, ihr vergesst, 
 erinern: ich erinere, du erinerst, es erinert, wir erinern, ihr erinert, sie erinern
 +heißen: ich heiße, du heißt, es heißt, wir heißen, ihr heißt, sie heißen
 leben: ich lebe, du lebst, es lebt, wir leben, ihr lebt, sie leben
+wohnen: ich wohne, du wohnst, es wohnt, wir wohnen, ihr wohnt, sie wohnen
 gehen: ich gehe, du gehst, es geht, wir gehen, ihr geht, sie gehen
 verlassen: ich verlasse, du verlässt, es verlässt, wir verlassen, ihr verlasst, sie verlassen
 
