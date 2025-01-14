@@ -228,6 +228,7 @@ der Teppich
 der Kaffeetisch
 die Vase
 das Regal
+der Sessel
 
 
 die Decke
@@ -293,11 +294,13 @@ der Berg
 der Fluss
 der See
 das Meer
+der Strand
 der Park
 der Zoo
 
 
 die Reise
+der Ausflug
 der Bahnhof
 die Fahrkarte
 die Hind- und Rückfahrkarte
@@ -318,6 +321,7 @@ die Kirche
 der Markt
 der Supermarkt
 die Bibliothek
+der Buchladen
 das Restaurant
 das Hotel
 die Apotheke
@@ -364,6 +368,11 @@ die Adresse
 die Post
 das Riesenrad
 das Büro
+die Bar
+das Fitnessstudio
+
+
+die Rezeption
 
 
 
